@@ -1,0 +1,30 @@
+body{
+	background-color: blue;
+}
+.subject, #add-topic{
+	padding: 10px;
+	margin: 50px
+	border-style: solid;
+	border-width: 5px;
+}
+#gif-input{
+	padding: 10px;
+}
+.content{
+	float: left;
+	border-style: dashed;
+	border-color: brown;
+	border-width: 10px;
+	overflow: auto;
+	margin: 10px;
+}
+.chosenGif{
+	background-color: blue;
+}
+.rating{
+	background-color: green;
+	text-align: center;
+}
+#gifsGoHere{
+	background-color: black;
+}
