@@ -1,7 +1,7 @@
 //MAIN FUNCTION////////////////////////////////////////////////////////////////////////////////////////////////////		
 	$(document).ready(function(){
 		//ORIGINAL BUTTONS
-		var topics = ["fix", "fix", "fix", "fix", "fix", "fix"];
+		var topics = ["pozole", "tamales", "enchiladas", "sopes", "chile con carne", "birria"];
 		//SHOW THE BUTTONS
 		displayButtons();
 		//ADD A TOPIC AND APPEND TO THE BUTTONS LIST
